@@ -1,4 +1,4 @@
-# Volume Controls for the ESP S3 Box 3 in esphome
+# Volume Controls for the ESP S3 in esphome
 
 ## Example Usage
 
